@@ -7,3 +7,6 @@ My favorite color is pink.
 I think that Moana is a really good movie
 I did not used to like bottle water
 My style is versatile
+
+### A little extra more about me 
+I actually do not like english class, or anything boring
