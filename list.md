@@ -1,4 +1,4 @@
-my top favorite colors
+my favorite colors from most favorite to least favorite
 
 1. ***pink***
 2. _white_
