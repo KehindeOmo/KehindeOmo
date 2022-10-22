@@ -10,4 +10,4 @@
 
 [RepoImages markdown](https://github.com/KehindeOmo/KehindeOmo/blob/1824575c14b20ddaed1c16f67acb9e3724a594b2/repoimages.md)
 
-[Code](https://github.com/KehindeOmo/KehindeOmo/blob/33e25a45097204f3de1762515f7e8d85f90a44bf/code.md)
+[Block of Code](https://github.com/KehindeOmo/KehindeOmo/blob/33e25a45097204f3de1762515f7e8d85f90a44bf/code.md)
